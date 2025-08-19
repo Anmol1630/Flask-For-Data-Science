@@ -27,7 +27,5 @@ flask_project/
      
 5. Create app.py
 
-Your current code is already perfect for a starter Flask app . 
-
 6. Run Flask App
 python app.py
